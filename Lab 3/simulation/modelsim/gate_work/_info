@@ -1,0 +1,85 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UIUC/2022 Spring/ECE 385/Labs/Lab 3/simulation/modelsim
+vadder2
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1645403124
+!i10b 1
+!s100 N[KPFZ?k?i[jYER>HUYX_3
+Id8Q@6MhVL:aDkQ40V26i`0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 ECE385Lab3_svo_unit
+S1
+R0
+Z5 w1645402005
+Z6 8ECE385Lab3.svo
+Z7 FECE385Lab3.svo
+L0 31
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1645403124.000000
+Z10 !s107 ECE385Lab3.svo|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+.|ECE385Lab3.svo|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+.
+Z14 tCvgOpt 0
+vhard_block
+R1
+R2
+!i10b 1
+!s100 @n]OTG>Q7bW@BSaNWbHW43
+IgG0A>gWeX@R0NjTDzPEbD1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 3350
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vtestbench
+R1
+R2
+!i10b 1
+!s100 QkUTAz4eM6oA<BjYjB4aJ2
+IkFo<;TS;;Q:?50fi<@>mO3
+R3
+!s105 testbench_sv_unit
+S1
+R0
+w1645402566
+8D:/UIUC/2022 Spring/ECE 385/Labs/Lab 3/Lab 3 files/testbench.sv
+FD:/UIUC/2022 Spring/ECE 385/Labs/Lab 3/Lab 3 files/testbench.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/UIUC/2022 Spring/ECE 385/Labs/Lab 3/Lab 3 files/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/UIUC/2022 Spring/ECE 385/Labs/Lab 3/Lab 3 files|D:/UIUC/2022 Spring/ECE 385/Labs/Lab 3/Lab 3 files/testbench.sv|
+!i113 1
+R12
+!s92 -sv -work work {+incdir+D:/UIUC/2022 Spring/ECE 385/Labs/Lab 3/Lab 3 files}
+R14
