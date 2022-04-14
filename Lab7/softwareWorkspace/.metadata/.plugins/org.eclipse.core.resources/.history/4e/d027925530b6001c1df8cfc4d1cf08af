@@ -1,0 +1,28 @@
+/*
+ * palette_test.c
+ *
+ *  Created on: Apr 6, 2022
+ *      Author: zcheng1
+ */
+
+#include "text_mode_vga_color.h"
+
+
+void paletteTest()
+{
+	textVGAColorClr();
+	//extVGADrawColorText ("This text should cycle through random colors", 0, 0, 0, 1);
+	printf("reaching here");
+
+	for (int i = 0; i < 100; i ++)
+	{
+		usleep (20000);
+		//textVGADrawColorText ("This text should cycle through random colors", 0, 0, 0, 1);
+		setColorPalette(0, 	0xa, 0x5, 0x0); //set color 0 to random color;
+		printf("reaching here2");
+		textVGADrawColorText ("This text should cycle through random colors", 0, 0, 0, 1);
+		printf("reaching here3");
+		setColorPalette(1, 	0x5, 0xf, 0xf); //set color 1 to random color;
+	}
+
+}

@@ -1,0 +1,1620 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/D/study/Intel/ece385/newproject2/simulation/modelsim
+valtera_avalon_sc_fifo
+Z1 !s110 1634268121
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+IRkJigKA5JjVBS><K6[3eG0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1634196300
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_sc_fifo.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1634268121.000000
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z7 o-vlog01compat -work lab61soc
+Z8 !s92 -vlog01compat -work lab61soc +incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules
+Z9 tCvgOpt 0
+valtera_avalon_st_clock_crosser
+Z10 !s110 1634268125
+!i10b 1
+!s100 YbU`iK^TYJ_9Hz`CZekjQ3
+IM>E98m>B0jaZ;Q=8AS1:z2
+R2
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+L0 22
+R5
+r1
+!s85 0
+31
+Z11 !s108 1634268125.000000
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_st_handshake_clock_crosser
+R10
+!i10b 1
+!s100 3f<J9K;e[9FU@JKn0^PK?0
+Im7Ud12fo[C6m93VDJ=5:T3
+R2
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+Z12 L0 24
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_arb_adder
+Z13 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z14 !s110 1634268126
+!i10b 1
+!s100 1Jn[a;@5nZmTN?DFKQNzj2
+IeQDc2glLX>V<:3I]FdCFd2
+R2
+Z15 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R0
+R3
+Z16 8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_arbitrator.sv
+Z17 FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_arbitrator.sv
+L0 228
+R5
+r1
+!s85 0
+31
+Z18 !s108 1634268126.000000
+Z19 !s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_arbitrator.sv|
+Z20 !s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+Z21 o-sv -work lab61soc
+Z22 !s92 -sv -work lab61soc +incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules
+R9
+valtera_merlin_arbitrator
+R13
+R14
+!i10b 1
+!s100 NQTehjm2fNQROUMUzShGa1
+I22VMjc]c^QXbF;6m:=[L^1
+R2
+R15
+S1
+R0
+R3
+R16
+R17
+L0 103
+R5
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R21
+R22
+R9
+valtera_merlin_burst_adapter
+R13
+Z23 !s110 1634268127
+!i10b 1
+!s100 OCc70X^k:B?GW6i71n`L_3
+IF4W`d`K5eAJK?18DA80Fe0
+R2
+!s105 altera_merlin_burst_adapter_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter.sv
+R4
+R5
+r1
+!s85 0
+31
+Z24 !s108 1634268127.000000
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter.sv|
+!i113 1
+R21
+R22
+R9
+valtera_merlin_burst_adapter_uncompressed_only
+R13
+R23
+!i10b 1
+!s100 STH]BdUM[JDMJZNJGXCd>0
+I5GVC4ci21^I9[hEnIU`8>1
+R2
+!s105 altera_merlin_burst_adapter_uncmpr_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+L0 39
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!i113 1
+R21
+R22
+R9
+valtera_merlin_burst_uncompressor
+R13
+R14
+!i10b 1
+!s100 f1?Rb<=9U?R9LJoHl;7>T3
+I`kn6@=F^WWj07TI_EO[o43
+R2
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R21
+R22
+R9
+valtera_merlin_master_agent
+R13
+Z25 !s110 1634268128
+!i10b 1
+!s100 _CJm:YX=>U2LQKH;8=@cb0
+IWNjNX@nEON2mM57oGOdaL0
+R2
+!s105 altera_merlin_master_agent_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_master_agent.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_master_agent.sv
+L0 28
+R5
+r1
+!s85 0
+31
+Z26 !s108 1634268128.000000
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R21
+R22
+R9
+valtera_merlin_master_translator
+R13
+Z27 !s110 1634268129
+!i10b 1
+!s100 NdRk@]3fC2C@V7Rm;dQM31
+Im[I:hANn^]657TSLbb8zF1
+R2
+!s105 altera_merlin_master_translator_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_master_translator.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_master_translator.sv
+L0 32
+R5
+r1
+!s85 0
+31
+Z28 !s108 1634268129.000000
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R21
+R22
+R9
+valtera_merlin_slave_agent
+R13
+R25
+!i10b 1
+!s100 ePZN1d?B062J`OBb?blff3
+IzCCZmojkP[>GkeFm=2ONm3
+R2
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_slave_agent.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_slave_agent.sv
+Z29 L0 34
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R21
+R22
+R9
+valtera_merlin_slave_translator
+R13
+R27
+!i10b 1
+!s100 k`9[YAn_dLTkg;GE`mOb61
+I0VR=3YW@[C]gHk_4[4<@o0
+R2
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_slave_translator.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_slave_translator.sv
+L0 35
+R5
+r1
+!s85 0
+31
+R28
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R21
+R22
+R9
+valtera_merlin_width_adapter
+R13
+R14
+!i10b 1
+!s100 QzdA5DP6CReOTH<9QzODa3
+IiYbS07jJ=n;j8C>l12]5R0
+R2
+!s105 altera_merlin_width_adapter_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_width_adapter.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_width_adapter.sv
+L0 25
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_width_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_merlin_width_adapter.sv|
+!i113 1
+R21
+R22
+R9
+valtera_reset_controller
+Z30 !s110 1634268120
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+I7kX>dObI:<Ti5i]R^?mJ_3
+R2
+R0
+Z31 w1634196297
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_reset_controller.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+Z32 !s108 1634268120.000000
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R7
+R8
+R9
+valtera_reset_synchronizer
+R1
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+I9Q3aUCbo^1;AQl3;1LDW10
+R2
+R0
+R31
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_reset_synchronizer.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_reset_synchronizer.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R7
+R8
+R9
+valtera_std_synchronizer_nocut
+R10
+!i10b 1
+!s100 b8zV2<79GgkNg0GC<P[GJ2
+I^8ozb4ImQXS_HkOV_WzAF1
+R2
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_std_synchronizer_nocut.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_std_synchronizer_nocut.v
+L0 44
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc
+R30
+!i10b 1
+!s100 N_o2DF@Z?N:AnbLU<de>A3
+IojB^D:H>S5oYMM1fOf0QT3
+R2
+R0
+Z33 w1634196282
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/lab61soc.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/lab61soc.v
+L0 6
+R5
+r1
+!s85 0
+31
+R32
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/lab61soc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/lab61soc.v|
+!i113 1
+R7
+!s92 -vlog01compat -work lab61soc +incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis
+R9
+vlab61soc_irq_mapper
+R13
+R10
+!i10b 1
+!s100 UcI[hUF]liR^QH[PZ>c[[1
+IP2GE`[nT`0`oCTE9NgATL0
+R2
+!s105 lab61soc_irq_mapper_sv_unit
+S1
+R0
+R31
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_irq_mapper.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_irq_mapper.sv
+L0 31
+R5
+r1
+!s85 0
+31
+Z34 !s108 1634268124.000000
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_irq_mapper.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_irq_mapper.sv|
+!i113 1
+R21
+R22
+R9
+vlab61soc_led
+Z35 !s110 1634268124
+!i10b 1
+!s100 nLzT3JZ2@YzI`m[NMJX;L0
+IZ:O_eW4RF^ko3X:YZ8<MS2
+R2
+R0
+Z36 w1634196283
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_led.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_led.v
+R4
+R5
+r1
+!s85 0
+31
+R34
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_led.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_led.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_mm_interconnect_0
+R1
+!i10b 1
+!s100 :9m9HG4A??MFM^DC6dL>>1
+IZiX1?[;fK_o6iAJKme4W:3
+R2
+R0
+R31
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_mm_interconnect_0_avalon_st_adapter
+R1
+!i10b 1
+!s100 DLS1i>GK<izEORo;h5nTQ0
+IboFn0Ge4IY5m>el@FlegJ1
+R2
+R0
+w1634196301
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_mm_interconnect_0_avalon_st_adapter_005
+R1
+!i10b 1
+!s100 dRZ6?DN:fLY:W7NjA:M_52
+ILzG=a`_=Te8L?F<mLIP<92
+R2
+R0
+Z37 w1634196302
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0
+R13
+R10
+!i10b 1
+!s100 85jQSDUEA6kAMHcSlg1Gm3
+I9]SW7XIj`JEXaMk5FQT5C3
+R2
+!s105 lab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0_sv_unit
+S1
+R0
+R37
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv
+Z38 L0 66
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv|
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R13
+R10
+!i10b 1
+!s100 ?jXK[a7:WAIo24@2bUaCE3
+I8T_CDbo2OheJ@I@dK=llQ0
+R2
+!s105 lab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0_sv_unit
+S1
+R0
+R37
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+R38
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_cmd_demux
+R13
+R23
+!i10b 1
+!s100 @J[2kP:6DWSSlNZkCcUPe1
+IcQ4]>Ya;nMfBO[@dB^7Q=1
+R2
+!s105 lab61soc_mm_interconnect_0_cmd_demux_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_demux.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_demux.sv
+Z39 L0 43
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_cmd_mux
+R13
+R23
+!i10b 1
+!s100 n]Y:dSD_od0fn6_ZXgO=<1
+I[;nWIld:ZT6VOHQ8A`KfU1
+R2
+!s105 lab61soc_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_mux.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_mux.sv
+Z40 L0 51
+R5
+r1
+!s85 0
+31
+R24
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_router
+R13
+R25
+!i10b 1
+!s100 kGK]0:d23B1^5j28D4=QW0
+I``Hi7C9BQbca?gnA=l_n=2
+R2
+Z41 !s105 lab61soc_mm_interconnect_0_router_sv_unit
+S1
+R0
+R3
+Z42 8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router.sv
+Z43 FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router.sv
+Z44 L0 84
+R5
+r1
+!s85 0
+31
+R26
+Z45 !s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router.sv|
+Z46 !s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router.sv|
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_router_002
+R13
+R25
+!i10b 1
+!s100 dEVNo3Q=9[]ea1zKHb7JV1
+IJdTz[X;WD5S5k]@_c2TTQ3
+R2
+Z47 !s105 lab61soc_mm_interconnect_0_router_002_sv_unit
+S1
+R0
+R3
+Z48 8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_002.sv
+Z49 FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_002.sv
+R44
+R5
+r1
+!s85 0
+31
+R26
+Z50 !s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_002.sv|
+Z51 !s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_002.sv|
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_router_002_default_decode
+R13
+R25
+!i10b 1
+!s100 =Q<VjFkP90kRkDM=WiQg70
+ImQGXc3zA@D93EKWDciUGn3
+R2
+R47
+S1
+R0
+R3
+R48
+R49
+Z52 L0 45
+R5
+r1
+!s85 0
+31
+R26
+R50
+R51
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_router_007
+R13
+R23
+!i10b 1
+!s100 1Vf`cR8k2hKV:Q47Zi8eJ1
+Ii5;bHX?I3TFkY0NlEch;z2
+R2
+Z53 !s105 lab61soc_mm_interconnect_0_router_007_sv_unit
+S1
+R0
+R3
+Z54 8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_007.sv
+Z55 FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_007.sv
+R44
+R5
+r1
+!s85 0
+31
+R24
+Z56 !s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_007.sv|
+Z57 !s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_007.sv|
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_router_007_default_decode
+R13
+R23
+!i10b 1
+!s100 VzChNLPTRzz6Pn6TXn=dF0
+I4ZT]CiK[j`8iJURo?Ya?B2
+R2
+R53
+S1
+R0
+R3
+R54
+R55
+R52
+R5
+r1
+!s85 0
+31
+R24
+R56
+R57
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_router_default_decode
+R13
+R25
+!i10b 1
+!s100 830CKCE@PifnHBY<`2Pjc1
+IfRHDUdiOUR=a[cX1e0Mj=0
+R2
+R41
+S1
+R0
+R3
+R42
+R43
+R52
+R5
+r1
+!s85 0
+31
+R26
+R45
+R46
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_rsp_demux
+R13
+R14
+!i10b 1
+!s100 :;GSoZ0RaCzn5cAOcTPnG2
+I=cK8cm:ckDJCH8H`HoTP70
+R2
+!s105 lab61soc_mm_interconnect_0_rsp_demux_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_demux.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_demux.sv
+R39
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R21
+R22
+R9
+vlab61soc_mm_interconnect_0_rsp_mux
+R13
+R14
+!i10b 1
+!s100 lMGD=98Am>iimLfA>eZ:Q0
+IQLaJ^k5W5i5dU0UWlh3Rj2
+R2
+!s105 lab61soc_mm_interconnect_0_rsp_mux_sv_unit
+S1
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_mux.sv
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_mux.sv
+R40
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R21
+R22
+R9
+vlab61soc_nios2_gen2_0
+Z58 !s110 1634268123
+!i10b 1
+!s100 ^kO78;MDPe^0X8c0ZEJB<2
+I3RPIaQz;Y5g6`6lHUDSY40
+R2
+R0
+R36
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+Z59 !s108 1634268123.000000
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu
+R58
+!i10b 1
+!s100 lAzb:afjmXPCR7_ebVjoI0
+Inl6OZQDg3?ebiVhD2RG;O1
+R2
+R0
+R3
+Z60 8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu.v
+Z61 FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu.v
+L0 2834
+R5
+r1
+!s85 0
+31
+R59
+Z62 !s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu.v|
+Z63 !s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_debug_slave_sysclk
+R58
+!i10b 1
+!s100 [MC8^F^Q75B@i^aR8Z_MF2
+IP[I2K0J4dYmaaD]2SHFdg2
+R2
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+R59
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_debug_slave_tck
+R35
+!i10b 1
+!s100 dYT[0V6a8_LjZjZU`kjQY2
+I?Rl5<:dn6X^24L5gB3`9V1
+R2
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_tck.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_tck.v
+R4
+R5
+r1
+!s85 0
+31
+R59
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_debug_slave_wrapper
+R35
+!i10b 1
+!s100 ZU^k[DfQli_72cU3I<WGT0
+I3]R:DDSAzOGYPnBTNDL220
+R2
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+R34
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_avalon_reg
+R58
+!i10b 1
+!s100 ;IFHQMPg_JlWWeVgE6fIh0
+I>S_I>MU=5@kdF]4oFkHZ60
+R2
+R0
+R3
+R60
+R61
+L0 2023
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci
+R58
+!i10b 1
+!s100 mQkDnU8JW0IbC`ISZcVkE0
+In]:e:SPNhlWoD`^ozXYb12
+R2
+R0
+R3
+R60
+R61
+L0 2362
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_break
+R58
+!i10b 1
+!s100 nU;E>Xhi]^^T1Of@FH<BY3
+I[h1:8nIJF[=B[DFE]Q0Ko0
+R2
+R0
+R3
+R60
+R61
+L0 295
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_compute_input_tm_cnt
+R58
+!i10b 1
+!s100 ]6f>:S7M3kC[TD1dAC7Y21
+ICiia]ZQ;5[ZNA<I1NJQ_M1
+R2
+R0
+R3
+R60
+R61
+L0 1265
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_dbrk
+R58
+!i10b 1
+!s100 >VB@a3Yb2:jMBTCV5`llG3
+I>z8P`3<ZjIm;46=GU2`iH0
+R2
+R0
+R3
+R60
+R61
+L0 795
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_debug
+R58
+!i10b 1
+!s100 TVQSM27i?=eB>>I:Bz40T0
+ITfD?F0oV?iKfFQ;kF8O2h3
+R2
+R0
+R3
+R60
+R61
+L0 153
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_dtrace
+R58
+!i10b 1
+!s100 Q[Y>Da>811E6KGD0<NV830
+IZ66ddzz>QS>TdSZDR2Wn_0
+R2
+R0
+R3
+R60
+R61
+L0 1183
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_fifo
+R58
+!i10b 1
+!s100 l1_4l<=aNKm^9GkUZ0fS`0
+IAL6Z:iE6M=I]nn=D4B24z3
+R2
+R0
+R3
+R60
+R61
+L0 1427
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_fifo_cnt_inc
+R58
+!i10b 1
+!s100 @<WS_lo^1SYdhCRTj0mXN1
+IjOSDX^1lWilLOg8[bHD`B2
+R2
+R0
+R3
+R60
+R61
+L0 1380
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_fifo_wrptr_inc
+R58
+!i10b 1
+!s100 <>kcU2LY?RFPjnA3LKRDo3
+IB_fe6jKTWDabJH`M0U=V63
+R2
+R0
+R3
+R60
+R61
+L0 1337
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_im
+R58
+!i10b 1
+!s100 ;b:`]KzoK100PCSAoJFdQ1
+I;NFVnzolZz0]cdoi^<71U2
+R2
+R0
+R3
+R60
+R61
+L0 1936
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_itrace
+R58
+!i10b 1
+!s100 2jd>633Yl0PKK31U6KYLK3
+IF;0@dzJ3eQ^_lFSNhh=jo0
+R2
+R0
+R3
+R60
+R61
+L0 982
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_pib
+R58
+!i10b 1
+!s100 973F>`Wd_;HOEdlc8iXAo3
+IH@dhXm`a2iAooA[JHehNe1
+R2
+R0
+R3
+R60
+R61
+L0 1913
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_td_mode
+R58
+!i10b 1
+!s100 aJldMiZQTIjNR[WYW>Q>F1
+I2La49GPlmIIWD1bMB]F:@3
+R2
+R0
+R3
+R60
+R61
+L0 1115
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_xbrk
+R58
+!i10b 1
+!s100 Ui5cW<bER1>3DS?gf[0eb2
+IX=Gd4gPH57LjQ1JN?1b]e2
+R2
+R0
+R3
+R60
+R61
+L0 588
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_ocimem
+R58
+!i10b 1
+!s100 QUV?F5i7CS=95OjE5EYkW3
+IFc:`>HC@7JC3R?G1GeQDM2
+R2
+R0
+R3
+R60
+R61
+L0 2181
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_performance_monitors
+R58
+!i10b 1
+!s100 :FA>]J7OzW<>LQBO5;IY60
+I21=I7Qh:>U:zlCBV:5a5c2
+R2
+R0
+R3
+R60
+R61
+L0 2006
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_ociram_sp_ram_module
+R58
+!i10b 1
+!s100 iGcC:7jmJkGbH6BiejTGG1
+IJ[Ld=g<Nzb4DhIUe2eI@63
+R2
+R0
+R3
+R60
+R61
+L0 2116
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_register_bank_a_module
+R58
+!i10b 1
+!s100 4A?WmM`TAeCzUUAC?k9]=3
+IaIz45IFzIOVDNM9?z=Pl?0
+R2
+R0
+R3
+R60
+R61
+R4
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_register_bank_b_module
+R58
+!i10b 1
+!s100 j[_dWB7MR3JP;R4Nc2UEO3
+IAHBohLmB7:4Q^d`4VlEDo3
+R2
+R0
+R3
+R60
+R61
+L0 87
+R5
+r1
+!s85 0
+31
+R59
+R62
+R63
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_test_bench
+R35
+!i10b 1
+!s100 4?41`V8PJI[0;ERA9Q0MH1
+Ilf1k<<g>Ab_<KQiR;<1lz3
+R2
+R0
+R3
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_test_bench.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+R34
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_test_bench.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_onchip_memory2_0
+Z64 !s110 1634268122
+!i10b 1
+!s100 ^Pa5jiDDX=>1d]9OI8CbM1
+I^jNQ`m7SVz=jIFjJaNP^`3
+R2
+R0
+Z65 w1634196284
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_onchip_memory2_0.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_onchip_memory2_0.v
+R4
+R5
+r1
+!s85 0
+31
+Z66 !s108 1634268122.000000
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_onchip_memory2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_onchip_memory2_0.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_run
+R64
+!i10b 1
+!s100 PI=YiVl=394nh:Wjz=26`2
+IRMmPc]zU9Q^W6NSVbnA`U3
+R2
+R0
+R65
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_run.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_run.v
+R4
+R5
+r1
+!s85 0
+31
+R66
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_run.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_run.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram
+R64
+!i10b 1
+!s100 RGP=oTIMPh_1h>kO;UdnK0
+I1KD8E3edcTJ4zT3HfaWOj3
+R2
+R0
+R65
+Z67 8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sdram.v
+Z68 FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sdram.v
+L0 159
+R5
+r1
+!s85 0
+31
+R66
+Z69 !s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sdram.v|
+Z70 !s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sdram.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram_input_efifo_module
+R64
+!i10b 1
+!s100 HYRM`7MeMJ@DM_;eoA_j01
+IYXm9zd3XFXI:1c9GU`ZTB1
+R2
+R0
+R65
+R67
+R68
+R4
+R5
+r1
+!s85 0
+31
+R66
+R69
+R70
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram_pll
+R64
+!i10b 1
+!s100 ^2W]3zDFKoX=Dnbz?G6d83
+I=>F:HZ@[Z3iHjMEiCHkF33
+R2
+R0
+Z71 w1634196286
+Z72 8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sdram_pll.v
+Z73 FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sdram_pll.v
+L0 217
+R5
+r1
+!s85 0
+31
+R66
+Z74 !s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sdram_pll.v|
+Z75 !s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sdram_pll.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram_pll_altpll_vg92
+R64
+!i10b 1
+!s100 42cBi:40CKhN`FFH7QGjc1
+IB9:0j1`Gaf?_HEUaPLeYO1
+R2
+R0
+R71
+R72
+R73
+L0 130
+R5
+r1
+!s85 0
+31
+R66
+R74
+R75
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram_pll_dffpipe_l2c
+R64
+!i10b 1
+!s100 9REIQ[^:KQ<^n[5:kKjU63
+IziaLSHbaX``aedVT=oVWz0
+R2
+R0
+R71
+R72
+R73
+L0 37
+R5
+r1
+!s85 0
+31
+R66
+R74
+R75
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram_pll_stdsync_sv6
+R64
+!i10b 1
+!s100 Haf`6k]WBhNCSAaoN81cY1
+I>T2cb2N=?Z@_=X8:8_oU?0
+R2
+R0
+R71
+R72
+R73
+L0 98
+R5
+r1
+!s85 0
+31
+R66
+R74
+R75
+!i113 1
+R7
+R8
+R9
+vlab61soc_SW
+R35
+!i10b 1
+!s100 nJ5U5E5h<QeLSkIT@z?OC1
+Ij=_VkO^3cK[TcjNYWm;IK1
+R2
+R0
+R33
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_SW.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_SW.v
+R4
+R5
+r1
+!s85 0
+31
+R34
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_SW.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_SW.v|
+!i113 1
+R7
+R8
+R9
+nlab61soc_@s@w
+vlab61soc_sysid_qsys_0
+R64
+!i10b 1
+!s100 8D57GD>MFUB2TnfHGh37j2
+I1m5zUjEFhKcEQ=ij`65Mc3
+R2
+R0
+R71
+8C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sysid_qsys_0.v
+FC:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sysid_qsys_0.v
+R29
+R5
+r1
+!s85 0
+31
+R66
+!s107 C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sysid_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules|C:/D/study/Intel/ece385/newproject2/lab61soc/synthesis/submodules/lab61soc_sysid_qsys_0.v|
+!i113 1
+R7
+R8
+R9
